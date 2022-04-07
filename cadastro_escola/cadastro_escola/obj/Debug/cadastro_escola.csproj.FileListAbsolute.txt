@@ -1,0 +1,16 @@
+C:\Users\2020102011041-3\source\repos\cadastro_escola\cadastro_escola\obj\Debug\cadastro_escola.csproj.AssemblyReference.cache
+C:\Users\2020102011041-3\source\repos\cadastro_escola\cadastro_escola\obj\Debug\cadastro_escola.csproj.SuggestedBindingRedirects.cache
+C:\Users\2020102011041-3\source\repos\cadastro_escola\cadastro_escola\obj\Debug\App.g.cs
+C:\Users\2020102011041-3\source\repos\cadastro_escola\cadastro_escola\obj\Debug\cadastro_escola_MarkupCompile.cache
+C:\Users\2020102011041-3\source\repos\cadastro_escola\cadastro_escola\bin\Debug\cadastro_escola.exe.config
+C:\Users\2020102011041-3\source\repos\cadastro_escola\cadastro_escola\bin\Debug\cadastro_escola.exe
+C:\Users\2020102011041-3\source\repos\cadastro_escola\cadastro_escola\bin\Debug\cadastro_escola.pdb
+C:\Users\2020102011041-3\source\repos\cadastro_escola\cadastro_escola\obj\Debug\MainWindow.g.cs
+C:\Users\2020102011041-3\source\repos\cadastro_escola\cadastro_escola\obj\Debug\cadastro_escola_MarkupCompile.lref
+C:\Users\2020102011041-3\source\repos\cadastro_escola\cadastro_escola\obj\Debug\MainWindow.baml
+C:\Users\2020102011041-3\source\repos\cadastro_escola\cadastro_escola\obj\Debug\cadastro_escola.g.resources
+C:\Users\2020102011041-3\source\repos\cadastro_escola\cadastro_escola\obj\Debug\cadastro_escola.Properties.Resources.resources
+C:\Users\2020102011041-3\source\repos\cadastro_escola\cadastro_escola\obj\Debug\cadastro_escola.csproj.GenerateResource.cache
+C:\Users\2020102011041-3\source\repos\cadastro_escola\cadastro_escola\obj\Debug\cadastro_escola.csproj.CoreCompileInputs.cache
+C:\Users\2020102011041-3\source\repos\cadastro_escola\cadastro_escola\obj\Debug\cadastro_escola.exe
+C:\Users\2020102011041-3\source\repos\cadastro_escola\cadastro_escola\obj\Debug\cadastro_escola.pdb
